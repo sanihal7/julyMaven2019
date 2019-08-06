@@ -1,0 +1,12 @@
+2019-08-06 11:08:646 INFO  LoggerTest:35 - testcase passed
+2019-08-06 11:08:649 WARN  LoggerTest:36 - please check the warning
+2019-08-06 11:08:367 INFO  LoggerTest:32 - chrome browser opened
+2019-08-06 11:08:370 INFO  LoggerTest:33 - user clicked on logic button
+2019-08-06 11:08:371 ERROR LoggerTest:34 - button not clickable
+2019-08-06 11:08:372 INFO  LoggerTest:35 - testcase passed
+2019-08-06 11:08:373 WARN  LoggerTest:36 - please check the warning
+2019-08-06 11:08:327 INFO  LoggerTest:32 - chrome browser opened
+2019-08-06 11:08:329 INFO  LoggerTest:33 - user clicked on logic button
+2019-08-06 11:08:330 ERROR LoggerTest:34 - button not clickable
+2019-08-06 11:08:331 INFO  LoggerTest:35 - testcase passed
+2019-08-06 11:08:332 WARN  LoggerTest:36 - please check the warning
