@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5792" started-at="2019-08-13T18:49:40Z" finished-at="2019-08-13T18:49:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5792" started-at="2019-08-13T18:49:40Z" finished-at="2019-08-13T18:49:46Z">
+      <class name="testPackages.TestCases">
+        <test-method status="PASS" signature="initializeThis()[pri:0, instance:testPackages.TestCases@4520ebad]" name="initializeThis" is-config="true" duration-ms="5456" started-at="2019-08-13T11:49:40Z" finished-at="2019-08-13T11:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeThis -->
+        <test-method status="PASS" signature="getSums(java.lang.String, java.lang.String)[pri:0, instance:testPackages.TestCases@4520ebad]" name="getSums" duration-ms="315" started-at="2019-08-13T11:49:46Z" data-provider="newdata" finished-at="2019-08-13T11:49:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSums -->
+        <test-method status="PASS" signature="closeThis()[pri:0, instance:testPackages.TestCases@4520ebad]" name="closeThis" is-config="true" duration-ms="0" started-at="2019-08-13T11:49:46Z" finished-at="2019-08-13T11:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeThis -->
+      </class> <!-- testPackages.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
